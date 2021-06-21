@@ -1,6 +1,6 @@
-@import url("https://rcvd.github.io/roam-css-system/internal/colors-tailwind.css");
-@impuport url("https://rcvd.github.io/roam-css-system/internal/roam-css-system.css");
-@import url("https://rcvd.github.io/roam-css-system/internal/additional-fixes.css");
+@import url("https://github.com/kareldries/roamthemes/blob/main/roam-css-system/colors-tailwind.css");
+@import url("https://github.com/kareldries/roamthemes/blob/main/roam-css-system/roam-css-system.css");
+@import url("https://github.com/kareldries/roamthemes/blob/main/roam-css-system/additional-fixes.css");
 
 :root {
     --co-a--hover: var(--cl-red-500);
